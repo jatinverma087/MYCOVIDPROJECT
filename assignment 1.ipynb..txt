@@ -1,0 +1,11 @@
+a=1234 #Infected till date
+b=12   #Infected on 10th June 2020 
+c=2    #Infected on 11th June 2020
+d=13   #Infected on 12th June 2020
+e=12/1234
+f=e*100
+print (f,"%age infected on 10th June 2020")
+g=(b-c)/b
+print (g, "%age change in infected on 11th June 2020")
+h=(d-c/d)
+print (h, "%age change in infected on 12th June 2020")

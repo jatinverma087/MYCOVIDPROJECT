@@ -1,0 +1,8 @@
+list1=["Andaman","Andhra","Arunachal","Assam","Bihar"]
+list2=[119,17699,259,10668,11700]
+print (list1)
+print (list2)
+tuplerecov=(66,8008,76,6657,8686)
+print (tuplerecov)
+dict={"Andaman":119,"Andhra":17699,"Arunachal":259,"Assam":6657,"Bihar":11700}
+print (dict)
